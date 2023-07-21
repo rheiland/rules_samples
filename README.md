@@ -13,3 +13,9 @@ pressure decreases cycle entry | <img src="https://github.com/rheiland/rules_sam
 . | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_pressure_cycleentry/images/final.jpg"  width="300" /> | .
 oxygen increases cycle entry | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_oxy_cycleentry/images/rule.png" width="300"/> | foo2.zip
 . | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_oxy_cycleentry/images/final.jpg"  width="300"/> | .
+
+## 2 cell types, random ICs; each cell type secretes and chemotaxes to a unique signal
+
+| Description             |  Rule, final plot          |  user_proj (.zip)
+:-------------------------:|:-------------------------:|:-------------------|
+tumor at t=0 | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_t0.png" width="300"/> | .
