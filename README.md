@@ -23,5 +23,8 @@ oxygen increases cycle entry | <img src="https://github.com/rheiland/rules_sampl
 ICs t=0 | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_t0.png" width="300"/> | .
 No rules. t= 6 hrs | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_no_rules_6hrs.png" width="300"/> | .
 No rules. t= 2 days | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_no_rules_2days.png" width="300"/> | .
+Rules | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters_pressure_repulsion/images/rules.png" width="300"/> | .
+With rules. t= 2 days | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters_pressure_repulsion/images/rand_ics_clusters_2days.png" width="300"/> | .
+
 
 
