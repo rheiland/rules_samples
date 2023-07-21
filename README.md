@@ -2,9 +2,14 @@
 
 Provide sample PhysiCell models (user_projects) that use simple rules.
 
+## Tumor: single cell type
+
 | Description             |  Rule, final plot          |  user_proj (.zip)
 :-------------------------:|:-------------------------:|:-------------------|
-pressure decreases cycle entry | ![](./user_projects/tumor_pressure_cycleentry/images/rule.png) | foo1.zip
-. | ![](./user_projects/tumor_pressure_cycleentry/images/final.jpg) | .
-oxygen increases cycle entry | ![](./user_projects/tumor_oxy_cycleentry/images/rule.png) | foo2.zip
-. | ![](./user_projects/tumor_oxy_cycleentry/images/final.jpg) | .
+tumor at t=0 | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_no_rules_1core/images/tumor_t0.png" width="300"/> | .
+oxygen at 3 days | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_no_rules_1core/images/oxygen_3days.png" width="300"/> | .
+No rules | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_no_rules_1core/images/tumor_no_rules_1core_3days.png" width="300"/> | .
+pressure decreases cycle entry | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_pressure_cycleentry/images/rule.png"  width="300" /> | foo1.zip
+. | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_pressure_cycleentry/images/final.jpg"  width="300" /> | .
+oxygen increases cycle entry | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_oxy_cycleentry/images/rule.png" width="300"/> | foo2.zip
+. | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/tumor_oxy_cycleentry/images/final.jpg"  width="300"/> | .
