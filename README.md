@@ -18,4 +18,8 @@ oxygen increases cycle entry | <img src="https://github.com/rheiland/rules_sampl
 
 | Description             |  Rule, final plot          |  user_proj (.zip)
 :-------------------------:|:-------------------------:|:-------------------|
-tumor at t=0 | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_t0.png" width="300"/> | .
+ICs t=0 | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_t0.png" width="300"/> | .
+No rules. t= 6 hrs | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_no_rules_6hrs.png" width="300"/> | .
+No rules. t= 2 days | <img src="https://github.com/rheiland/rules_samples/blob/main/user_projects/randomICs_2clusters/images/random_2ctypes_no_rules_2days.png" width="300"/> | .
+
+
