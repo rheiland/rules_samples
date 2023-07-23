@@ -2,7 +2,11 @@
 
 Provide sample PhysiCell models (user_projects) that use simple rules.
 
-## Tumor: single cell type
+* [Tumor: pressure, cycle entry](#tumor-pressure-cycle-entry)
+* [2 cell types: pressure, cell repulsion](#2-cell-types-pressure-cell-repulsion)
+
+
+## Tumor: pressure, cycle entry
 
 | Description             |  Plot or Rule         |  user_proj (.zip)
 :-------------------------:|:-------------------------:|:-------------------|
@@ -16,7 +20,8 @@ oxygen increases cycle entry | <img src="https://github.com/rheiland/rules_sampl
 
 <hr> 
 
-## 2 cell types, random ICs; each cell type secretes and chemotaxes to a unique signal
+
+## 2 cell types: pressure, cell repulsion
 
 | Description             |  Plot or Rule         |  user_proj (.zip)
 :-------------------------:|:-------------------------:|:-------------------|
